@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @darshanparulekar
+- 👀 I’m interested in Java, C++, C, MySql
+- 🌱 I’m currently learning Python, php
+- 💞️ I’m looking to collaborate on Java platform
+- 📫 Insta - @darshanparulekar, Twitter - @darshan_2999
