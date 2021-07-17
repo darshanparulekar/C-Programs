@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @darshanparulekar
-- 👀 I’m interested in Java, C++, C, MySql
-- 🌱 I’m currently learning Python, php
-- 📫 Insta - @darshanparulekar, Twitter - @darshan_2999
+Simple Hello World Program In "C" Language
